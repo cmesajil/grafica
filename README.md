@@ -1,2 +1,2 @@
 # grafica
-clase de procesamiento de imagenes 
+Clase de procesamiento de imagenes 
